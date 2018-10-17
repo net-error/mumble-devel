@@ -1,2 +1,2 @@
 # mumble-devel
-mumble-develport #FreeBSD
+mumble-devel port #FreeBSD
